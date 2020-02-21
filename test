@@ -1,0 +1,7 @@
+import a
+
+b = """hghgkhkhklkkjkjkjkjkjkjkjkj""" + "a"
+c = 3
+
+while True:
+	print(1)
